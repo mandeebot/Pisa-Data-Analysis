@@ -1,5 +1,4 @@
 # PISA Data Analysis
-## by Mandieng Bot
 
 
 ## Investigation Overview
