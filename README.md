@@ -62,3 +62,13 @@ For the categorise, i further encoded the categorical values in each category(ex
 >A point worth of mention is that given the high scores of males we also noticed females edged out males in terms of problem solving skills, which begs further questions like since males scored higher on the other performance indexes, why is't this translated into their problem solving skills or ability?
 
 >In conclusion, this Analysis requires further investigations, especially on the relationships between the variables
+
+## Reference
+- [Fabien Daniel 2015,Kaggle,Accessed November 9 2022](https://www.kaggle.com/code/fabiendaniel/predicting-flight-delays -tutorial)
+
+- [Stackoverflow, Accessed 2022](https://stackoverflow.com)
+
+- [Jade Maria, Github, Accessed 2022](https://github.com/cooljade007/communicate_data_findings/blob/master/pisa2012_Part1.ipynb)
+
+- [Bruno de Assis, Github, Accessed 2022](https://github.com/brunoassisp/PISA-Data-Viz-project) 
+
